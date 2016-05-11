@@ -11,6 +11,6 @@
 </ul>
 
 <h2> Screenshots </h2>
-<img src="http://imgur.com/4targHX" alt= "world_facts" />
+<img src="http://i.imgur.com/4targHX.png" alt= "world_facts" />
 
 
