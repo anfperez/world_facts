@@ -1,0 +1,16 @@
+html, body {
+  background-image: url('http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/earth-wallpapers-6.jpg');
+  font-weight: 100;
+  color: #FFF;
+  margin: 0 auto;
+  font-family: Arial;
+}
+
+h1{
+	text-align: center;
+	font-size: 3em;
+}
+
+.info {
+	text-align: center;
+}
