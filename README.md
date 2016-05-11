@@ -10,4 +10,7 @@
 <li> jQuery </li>
 </ul>
 
+<h2> Screenshots </h2>
+<img src="http://imgur.com/4targHX" alt= "world_facts" />
+
 
